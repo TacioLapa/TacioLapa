@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Tacio Lapa
 
-<!--
-**TacioLapa/TacioLapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor apaixonado por tecnologia, inovação e soluções criativas.  
+📍 Localizado no Brasil | [LinkedIn](https://www.linkedin.com/in/t%C3%A1cio-lapa-93b0b3381)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Sou um entusiasta da programação e estou sempre em busca de novos desafios.  
+Tenho interesse especial por desenvolvimento web, automações e projetos que envolvam lógica e criatividade.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+- APIs REST
+- Ferramentas de automação
+
+---
+
+## 📂 Repositórios em destaque
+
+- [Projeto-calculadora](https://github.com/TacioLapa/Projeto-calculadora): Uma calculadora simples e funcional feita para praticar conceitos básicos de programação.
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/t%C3%A1cio-lapa-93b0b3381)
+- ✉️ tacio.lapa@email.com *(exemplo — substitua pelo seu real)*
+
+---
+
+> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
+
